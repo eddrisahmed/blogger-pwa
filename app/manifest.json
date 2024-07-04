@@ -1,17 +1,17 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
+  "name": "Oc Earn",
+  "short_name": "Oc Earn",
+  "description": "This blog is very useful for all members. Only trusted online income sites are shared in our Oc Earn Blog.",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "bn-BD",
   "orientation": "any",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
-  "theme_color": "#fff",
+  "theme_color": "#0b8043", 
   "icons": [
     {
       "src": "icons/favicon.ico",
