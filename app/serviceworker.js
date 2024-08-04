@@ -9,7 +9,7 @@ importScripts(
 const config = {
   app: {
     name: "fineshop-pwa-app",
-    version: "v1",
+    version: "v1.0.09",
     precache: "install-time",
     runtime: "run-time",
   },
